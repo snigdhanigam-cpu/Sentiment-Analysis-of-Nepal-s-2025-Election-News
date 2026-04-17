@@ -1,5 +1,4 @@
-Sentiment Analysis of Media Coverage of the 2025 Nepal Prime Ministerial Election-
-
+Sentiment Analysis of Nepal’s 2025 Election News
 In September 2025, Nepal gained global attention after electing its first female Prime Minister using Discord as the “maiden”. Unlike prior regime changes, this election was significantly shaped by online discourse and digital platforms, an unprecedented intersection of democracy and the internet. This Project is a sentiment analysis of data created by scraping web news articles and blogs to examine how major English language media outliers portrayed this political transition. 
 
 Experimental analysis was performed using a transformer, however, the final analysis was done using TextBlob and VADER. 
